@@ -11,7 +11,7 @@ My GitHub page is http://victoria-uriostegui.
 * Lab 4
 
     Lab 4, part 1 was a favorite because we got to create functions that did calculation
-    conversions. We got to create functions, then would call them! At frist, this used to be hard for me to understand, but this lab helped my understanding. Creating the conversion functions was so useful and made for an interesting debugging session.
+    conversions. We got to create functions, then would call them! At first, this used to be hard for me to understand, but this lab helped my understanding. Creating the conversion functions was so useful and made for an interesting debugging session.
 
 * Lab 8
 
